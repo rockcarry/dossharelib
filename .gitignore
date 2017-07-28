@@ -1,0 +1,8 @@
+!.gitignore
+*.dll
+*.obj
+*.exe
+*.map
+*.txt
+
+
