@@ -3,6 +3,6 @@
 *.obj
 *.exe
 *.map
-*.txt
+error.txt
 
 
